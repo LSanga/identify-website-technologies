@@ -5,13 +5,14 @@ This script is optimized to work with SecApps output (https://secapps.com/). Aft
 It's slow to run. Output will be a txt file with the URL/Domain and the list of technologies.
 
 With URL list:
-`
+```
+
 python fixer.py -u data.csv
 
 python wappalyzer-script.py -u
-`
+```
 
 With Domain list:
-`
+```
 python wappalyzer-script.py
-`
+```
