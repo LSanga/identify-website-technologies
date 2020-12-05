@@ -1,0 +1,6 @@
+# uri,code,software
+"http://example.com","301/HTTP","nginx"
+"https://example.com","301/HTTP","nginx"
+"http://www.example.com","301/HTTP","nginx"
+"https://www.example.com","200/HTTP","nginx"
+"https://my.example.com","301/HTTP","nginx + Phusion Passenger 6.0.4"
