@@ -7,6 +7,7 @@ It's slow to run. Output will be a txt file with the URL/Domain and the list of 
 With URL list:
 `
 python fixer.py -u data.csv
+
 python wappalyzer-script.py -u
 `
 
